@@ -1,5 +1,23 @@
+# Python virtual environments
 venv/
+.venv/
+
+# Python cache files
 __pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
-*.pyc
+
+# Local dataset (not distributed with this repository)
 data/online_retail.xlsx
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
