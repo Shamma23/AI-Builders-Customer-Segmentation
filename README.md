@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Segmentation & Product Recommendation
 
 ### Unsupervised Learning Capstone \| Online Retail Dataset
@@ -352,3 +353,7 @@ and business interpretation.
 It highlights how machine learning can support practical retail business
 decisions through customer understanding and data-driven
 recommendations.
+=======
+# AI_Builder_Customer-Segmentation-Project
+Customer segmentation and product recommendation analysis using machine learning.
+>>>>>>> origin/main
